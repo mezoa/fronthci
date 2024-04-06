@@ -1,0 +1,1772 @@
+.homepage-child {
+    position: absolute;
+    top: 572px;
+    left: 0;
+    background-color: var(--color-whitesmoke-100);
+    width: 1500px;
+    height: 1362px;
+  }
+  .arngrens-choice1,
+  .quezon-city-metro {
+    position: absolute;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .arngrens-choice1 {
+    top: 16px;
+    left: 33px;
+    font-size: var(--font-size-3xl);
+    line-height: 35px;
+    text-align: center;
+  }
+  .quezon-city-metro {
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+  }
+  .sold,
+  .star-icon {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .kids-early-education,
+  .l-toy-with {
+    margin: 0;
+  }
+  .yokohama-new-japan-container {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-10-child {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div,
+  .item-10,
+  .item-10-child {
+    position: absolute;
+  }
+  .div {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-10 {
+    top: 392px;
+    left: 1045px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+    overflow: hidden;
+  }
+  .quezon-city-metro1 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold1,
+  .star-icon1 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon1 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold1 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-group {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .cooker-18l-non-stick,
+  .mini-rice-cooker {
+    margin: 0;
+  }
+  .yokohama-new-japan-container1 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-9-child {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div1,
+  .item-9,
+  .item-9-child {
+    position: absolute;
+  }
+  .div1 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-9 {
+    top: 392px;
+    left: 790px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+    overflow: hidden;
+  }
+  .quezon-city-metro2 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold2,
+  .star-icon2 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon2 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold2 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-container {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .outdoor-camping-stove,
+  .smilee-portable-butane {
+    margin: 0;
+  }
+  .yokohama-new-japan-container2 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-8-child {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div2,
+  .item-8,
+  .item-8-child {
+    position: absolute;
+  }
+  .div2 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-8 {
+    top: 392px;
+    left: 538px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+    overflow: hidden;
+  }
+  .quezon-city-metro3 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold3,
+  .star-icon3 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon3 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold3 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .group-div {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .adult-mober-scooter,
+  .off-road-electric {
+    margin: 0;
+  }
+  .yokohama-new-japan-container3 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-7-child {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div3,
+  .item-7,
+  .item-7-child {
+    position: absolute;
+  }
+  .div3 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-7 {
+    top: 392px;
+    left: 288px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+    overflow: hidden;
+  }
+  .quezon-city-metro4 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold4,
+  .star-icon4 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon4 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold4 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent1 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .fies-27-times,
+  .night-binoculars-27 {
+    margin: 0;
+  }
+  .yokohama-new-japan-container4 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-6-child {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div4,
+  .item-6,
+  .item-6-child {
+    position: absolute;
+  }
+  .div4 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-6 {
+    top: 392px;
+    left: 39px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+    overflow: hidden;
+  }
+  .quezon-city-metro5 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold5,
+  .star-icon5 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon5 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold5 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent2 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .albott-scooter-with,
+  .bar-large-aluminum {
+    margin: 0;
+  }
+  .yokohama-new-japan-container5 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-5-child {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div5,
+  .item-5,
+  .item-5-child {
+    position: absolute;
+  }
+  .div5 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-5 {
+    top: 61px;
+    left: 1045px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+    overflow: hidden;
+  }
+  .quezon-city-metro6 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold6,
+  .star-icon6 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon6 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold6 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent3 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .jeep-kids-electric,
+  .off-road-toy-childrens {
+    margin: 0;
+  }
+  .yokohama-new-japan-container6 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-3-child {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div6,
+  .item-3,
+  .item-3-child {
+    position: absolute;
+  }
+  .div6 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-3 {
+    top: 61px;
+    left: 537px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+    overflow: hidden;
+  }
+  .quezon-city-metro7 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold7,
+  .star-icon7 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon7 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold7 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent4 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .yokohama-new-japan {
+    position: absolute;
+    top: 203px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-2-child {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div7,
+  .item-2,
+  .item-2-child {
+    position: absolute;
+  }
+  .div7 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-2 {
+    top: 61px;
+    left: 288px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+    overflow: hidden;
+  }
+  .quezon-city-metro8 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold8,
+  .star-icon8 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon8 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold8 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent5 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .road-bike-26,
+  .yokohama-new-japan1 {
+    margin: 0;
+  }
+  .yokohama-new-japan-container7 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-1-child {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div8,
+  .item-1,
+  .item-1-child {
+    position: absolute;
+  }
+  .div8 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-1 {
+    top: 61px;
+    left: 39px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+    overflow: hidden;
+  }
+  .quezon-city-metro9 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold9,
+  .star-icon9 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon9 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold9 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent6 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .bad-dog-board,
+  .toy-stealing-bone {
+    margin: 0;
+  }
+  .yokohama-new-japan-container8 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-13-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div9 {
+    position: absolute;
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .arngrens-choice,
+  .item-13 {
+    position: absolute;
+    background-color: var(--color-white);
+    overflow: hidden;
+  }
+  .item-13 {
+    top: 61px;
+    left: 790px;
+    border-radius: var(--br-5xs);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    width: 230px;
+    height: 312px;
+  }
+  .arngrens-choice {
+    top: 654px;
+    left: 93px;
+    border-radius: var(--br-3xs);
+    width: 1314px;
+    height: 750px;
+  }
+  .quezon-city-metro10,
+  .top-products {
+    position: absolute;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .top-products {
+    top: 16px;
+    left: 33px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    width: 191px;
+    height: 35px;
+  }
+  .quezon-city-metro10 {
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+  }
+  .sold10,
+  .star-icon10 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon10 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold10 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent7 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .albott-scooter-with1,
+  .bar-large-aluminum1 {
+    margin: 0;
+  }
+  .yokohama-new-japan-container9 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-6-item {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div10,
+  .item-6-item,
+  .item-61 {
+    position: absolute;
+  }
+  .div10 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-61 {
+    height: 100%;
+    width: 18.61%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 81.39%;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .quezon-city-metro11 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold11,
+  .star-icon11 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon11 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold11 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent8 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .elbil-jeep-willys,
+  .peak-1500w-motor {
+    margin: 0;
+  }
+  .yokohama-new-japan-container10 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-7-item {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div11,
+  .item-7-item,
+  .item-71 {
+    position: absolute;
+  }
+  .div11 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-71 {
+    height: 100%;
+    width: 18.61%;
+    top: 0;
+    right: 20.63%;
+    bottom: 0;
+    left: 60.76%;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .quezon-city-metro12 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold12,
+  .star-icon12 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon12 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold12 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent9 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .jeep-kids-electric1,
+  .off-road-toy-childrens1 {
+    margin: 0;
+  }
+  .yokohama-new-japan-container11 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-8-item {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div12,
+  .item-8-item,
+  .item-81 {
+    position: absolute;
+  }
+  .div12 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-81 {
+    height: 100%;
+    width: 18.61%;
+    top: 0;
+    right: 41.1%;
+    bottom: 0;
+    left: 40.29%;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .quezon-city-metro13 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold13,
+  .star-icon13 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon13 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold13 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent10 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .yokohama-new-japan2 {
+    position: absolute;
+    top: 203px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-9-item {
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div13,
+  .item-9-item,
+  .item-91 {
+    position: absolute;
+  }
+  .div13 {
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-91 {
+    height: 100%;
+    width: 18.61%;
+    top: 0;
+    right: 61.25%;
+    bottom: 0;
+    left: 20.15%;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .quezon-city-metro14 {
+    position: absolute;
+    top: 24px;
+    left: 76px;
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .sold14,
+  .star-icon14 {
+    position: absolute;
+    top: 0;
+  }
+  .star-icon14 {
+    left: 0;
+    width: 75px;
+    height: 15px;
+  }
+  .sold14 {
+    left: 84px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .quezon-city-metro-manila-parent11 {
+    position: absolute;
+    top: 268px;
+    left: 11px;
+    width: 210px;
+    height: 39px;
+  }
+  .road-bike-261,
+  .yokohama-new-japan3 {
+    margin: 0;
+  }
+  .yokohama-new-japan-container12 {
+    position: absolute;
+    top: 195px;
+    left: 11px;
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .item-10-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .div14 {
+    position: absolute;
+    top: 239px;
+    left: 11px;
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+  }
+  .item-101 {
+    position: absolute;
+    height: 100%;
+    width: 18.61%;
+    top: 0;
+    right: 81.39%;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .arrow-back-ios-icon {
+    width: 15px;
+    position: relative;
+    height: 26.3px;
+  }
+  .banner-arrow {
+    position: absolute;
+    height: 14.1%;
+    width: 3.56%;
+    top: 42.95%;
+    right: 100.08%;
+    bottom: 42.95%;
+    left: -3.64%;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-9xs) 0;
+  }
+  .arrow-back-ios-icon1 {
+    width: 15px;
+    position: relative;
+    height: 26.3px;
+    transform: rotate(-180deg);
+  }
+  .banner-arrow1 {
+    position: absolute;
+    height: 14.1%;
+    width: 3.56%;
+    top: 57.05%;
+    right: -7.2%;
+    bottom: 28.85%;
+    left: 103.64%;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-9xs) 0;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .component-18 {
+    position: absolute;
+    top: 64px;
+    left: 53px;
+    width: 1236px;
+    height: 312px;
+    font-size: var(--font-size-3xs);
+  }
+  .arngrens-choice2,
+  .component-2-child {
+    position: absolute;
+    background-color: var(--color-white);
+  }
+  .arngrens-choice2 {
+    top: 1441px;
+    left: 84px;
+    border-radius: var(--br-3xs);
+    width: 1342px;
+    height: 415px;
+    overflow: hidden;
+    font-size: var(--font-size-3xl);
+  }
+  .component-2-child {
+    height: 82.86%;
+    width: 101.26%;
+    top: 8.57%;
+    right: 0;
+    bottom: 8.57%;
+    left: -1.26%;
+    border-radius: var(--br-8xs);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+  }
+  .vehicles {
+    position: absolute;
+    top: 0;
+    left: 28.3%;
+    line-height: 35px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .component-2 {
+    position: absolute;
+    top: 0;
+    left: 175px;
+    width: 159px;
+    height: 35px;
+  }
+  .component-3-child {
+    position: absolute;
+    height: 82.86%;
+    width: 101.26%;
+    top: 8.57%;
+    right: 0;
+    bottom: 8.57%;
+    left: -1.26%;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+  }
+  .vehicles1 {
+    position: absolute;
+    top: 0;
+    left: 20.75%;
+    line-height: 35px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .component-3 {
+    position: absolute;
+    top: 0;
+    left: 346px;
+    width: 159px;
+    height: 35px;
+  }
+  .component-4-child {
+    position: absolute;
+    height: 82.86%;
+    width: 101.26%;
+    top: 8.57%;
+    right: 0;
+    bottom: 8.57%;
+    left: -1.26%;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+  }
+  .vehicles2 {
+    position: absolute;
+    top: 0;
+    left: 35.22%;
+    line-height: 35px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .component-4 {
+    position: absolute;
+    top: 0;
+    left: 517px;
+    width: 159px;
+    height: 35px;
+  }
+  .component-5-child {
+    position: absolute;
+    height: 82.86%;
+    width: 101.26%;
+    top: 8.57%;
+    right: 0;
+    bottom: 8.57%;
+    left: -1.26%;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+  }
+  .vehicles3 {
+    position: absolute;
+    top: 0;
+    left: 37.74%;
+    line-height: 35px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .component-5 {
+    position: absolute;
+    top: 0;
+    left: 688px;
+    width: 159px;
+    height: 35px;
+  }
+  .categories1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 21px;
+    line-height: 35px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .categories {
+    position: absolute;
+    top: 596px;
+    left: 93px;
+    width: 847px;
+    height: 35px;
+    text-align: center;
+    font-size: var(--font-size-base);
+  }
+  .image-2-icon,
+  .image-3-icon,
+  .image-4-icon {
+    position: absolute;
+    top: 0;
+    left: 863px;
+    border-radius: var(--br-3xs);
+    width: 433px;
+    height: 191px;
+    object-fit: cover;
+  }
+  .image-2-icon,
+  .image-4-icon {
+    top: 204px;
+    height: 168px;
+  }
+  .image-2-icon {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .arrow-back-ios-icon2 {
+    width: 15px;
+    position: relative;
+    height: 26.3px;
+  }
+  .banner-arrow2 {
+    position: absolute;
+    height: 11.83%;
+    width: 5.5%;
+    top: 48.92%;
+    right: 100.38%;
+    bottom: 39.25%;
+    left: -5.87%;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-9xs) 0;
+  }
+  .arrow-back-ios-icon3 {
+    width: 15px;
+    position: relative;
+    height: 26.3px;
+    transform: rotate(-180deg);
+  }
+  .banner-arrow3 {
+    position: absolute;
+    height: 11.83%;
+    width: 5.5%;
+    top: 60.75%;
+    right: -11.37%;
+    bottom: 27.42%;
+    left: 105.88%;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray-100);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-9xs) 0;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .ads,
+  .index {
+    position: absolute;
+    height: 372px;
+  }
+  .ads {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    width: 800px;
+  }
+  .index {
+    top: 172px;
+    left: 112px;
+    width: 1296px;
+  }
+  .main-child {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 750px);
+    background-color: var(--color-linen-200);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1500px;
+    height: 151px;
+  }
+  .electric-bike-electric {
+    position: absolute;
+    top: 124px;
+    left: 368px;
+    font-weight: 500;
+  }
+  .electric-car,
+  .electric-scooter,
+  .scooter,
+  .toys {
+    position: absolute;
+    top: 124px;
+    left: 595px;
+    font-weight: 500;
+  }
+  .electric-car,
+  .electric-scooter,
+  .toys {
+    left: 485px;
+  }
+  .electric-scooter,
+  .toys {
+    left: 681px;
+  }
+  .toys {
+    left: 819px;
+  }
+  .search-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-linen-100);
+    box-sizing: border-box;
+    width: 928px;
+    height: 42px;
+  }
+  .search1 {
+    position: absolute;
+    top: 12px;
+    left: 19px;
+    font-weight: 500;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-4xs);
+    background-color: var(--color-whitesmoke-100);
+    width: 46px;
+    height: 31px;
+  }
+  .search-icon {
+    position: absolute;
+    height: 76.45%;
+    width: 48.91%;
+    top: 19.35%;
+    right: 25%;
+    bottom: 4.19%;
+    left: 26.09%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .rectangle-parent,
+  .search {
+    position: absolute;
+    top: 6px;
+    left: 875px;
+    width: 46px;
+    height: 31px;
+  }
+  .search {
+    top: 73px;
+    left: 368px;
+    width: 928px;
+    height: 42px;
+    font-size: var(--font-size-mini);
+    color: var(--color-dimgray-100);
+  }
+  .cart-icon {
+    position: absolute;
+    height: 78.71%;
+    width: 84.85%;
+    top: 21.29%;
+    right: 15.15%;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .cart-child {
+    position: absolute;
+    top: 0;
+    left: 21.3px;
+    border-radius: 50%;
+    background-color: var(--color-sienna);
+    width: 15px;
+    height: 15px;
+  }
+  .b,
+  .cart {
+    position: absolute;
+    top: 1px;
+    left: 26px;
+  }
+  .cart {
+    height: 27.68%;
+    width: 2.42%;
+    top: 47.68%;
+    right: 9.51%;
+    bottom: 24.64%;
+    left: 88.07%;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+    color: var(--color-white);
+  }
+  .logo-1-icon {
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 94.9px;
+    object-fit: cover;
+  }
+  .arngren,
+  .logo,
+  .logo-1-icon {
+    position: absolute;
+  }
+  .arngren {
+    top: 36px;
+    left: 96px;
+    font-weight: 600;
+  }
+  .logo {
+    top: 34px;
+    left: 93px;
+    width: 250px;
+    height: 94.9px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-dimgray-100);
+  }
+  .account-icon {
+    position: absolute;
+    height: 100%;
+    width: 33.91%;
+    top: 0;
+    right: 66.09%;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .hakdog {
+    position: absolute;
+    top: 9.4px;
+    left: 33.1px;
+    font-weight: 500;
+  }
+  .account {
+    position: absolute;
+    height: 20.33%;
+    width: 5.74%;
+    top: 9.01%;
+    right: 6.2%;
+    bottom: 70.66%;
+    left: 88.06%;
+    color: var(--color-dimgray-100);
+  }
+  .globe-icon-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 29.1px;
+    height: 30px;
+    object-fit: cover;
+  }
+  .english {
+    position: absolute;
+    top: 9px;
+    left: 33px;
+    font-weight: 500;
+  }
+  .arrow-back-ios-new-icon {
+    position: absolute;
+    top: 10px;
+    left: 86px;
+    width: 15px;
+    height: 15px;
+    object-fit: contain;
+  }
+  .language,
+  .main {
+    position: absolute;
+  }
+  .language {
+    top: 14px;
+    left: 1190px;
+    width: 101px;
+    height: 30px;
+    color: var(--color-dimgray-100);
+  }
+  .main {
+    top: 0;
+    left: calc(50% - 749px);
+    width: 1500px;
+    height: 151px;
+    font-size: var(--font-size-smi);
+    color: var(--color-dimgray-200);
+  }
+  .homepage {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 1934px;
+    overflow-y: auto;
+    text-align: left;
+    font-size: var(--font-size-3xs);
+    color: var(--color-dimgray-100);
+    font-family: var(--font-montserrat);
+  }
+  .english5,
+  .search-history {
+    position: absolute;
+    height: 24.13%;
+    width: 8.9%;
+    top: -89.62%;
+    left: 132.67%;
+    line-height: 35px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--color-indianred-100);
+    display: flex;
+    align-items: center;
+  }
+  .search-history {
+    width: 10.97%;
+    top: 0;
+    left: 2.17%;
+    color: var(--color-darkgray);
+  }
+  .motorcycles,
+  .oven,
+  .scooter1 {
+    margin: 0;
+  }
+  .motorcycles-oven-scooter-container,
+  .toys-for-kids {
+    position: absolute;
+    top: 38.75%;
+    left: 2.17%;
+    line-height: 29px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .toys-for-kids {
+    top: 20.63%;
+    cursor: pointer;
+  }
+  .language5 {
+    width: 875px;
+    position: relative;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-linen-100);
+    box-sizing: border-box;
+    height: 160px;
+    overflow: hidden;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: left;
+    font-size: var(--font-size-smi);
+    color: var(--color-dimgray-100);
+    font-family: var(--font-montserrat);
+  }
+  
