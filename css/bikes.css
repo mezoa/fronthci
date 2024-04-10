@@ -1,0 +1,3281 @@
+.logo-1-icon8,
+.main-child4 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.main-child4 {
+  width: 100%;
+  margin: 0 !important;
+  right: 0;
+  background-color: var(--color-linen-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo-1-icon8 {
+  width: 40%;
+  right: 60%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.arngren9 {
+  margin: 0;
+  position: absolute;
+  top: 37.93%;
+  left: 38.4%;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 1;
+}
+.logo8 {
+  height: 94.9px;
+  width: 250px;
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.globe-icon-18 {
+  height: 30px;
+  width: 29.1px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.english10 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 50px;
+}
+.arrow-back-ios-new-icon8 {
+  width: 15px;
+  height: 15px;
+  position: relative;
+  object-fit: contain;
+}
+.arrow-back-ios-new-wrapper {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.arrow-back-ios-new-wrapper,
+.english-parent,
+.language-inner {
+  display: flex;
+  align-items: flex-start;
+}
+.english-parent {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.language-inner {
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-8xs);
+}
+.language10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-4xs-9);
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.account-icon6,
+.hakdog8 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.account-icon6 {
+  height: 30.7px;
+  width: 29.2px;
+}
+.hakdog8 {
+  font-weight: 500;
+  display: inline-block;
+  min-width: 53px;
+}
+.parallel-conditions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs-4) 0 0;
+}
+.account8,
+.language-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.account8 {
+  align-items: flex-start;
+  gap: var(--gap-9xs-9);
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.language-parent {
+  align-items: flex-end;
+  gap: var(--gap-10xl-9);
+}
+.search-child4 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-linen-100);
+  box-sizing: border-box;
+}
+.frame-input {
+  width: 52px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  font-family: var(--font-montserrat);
+  font-weight: 500;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray-100);
+}
+.frame-child2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-whitesmoke-100);
+}
+.search-icon7 {
+  position: absolute;
+  height: 76.45%;
+  width: 48.91%;
+  top: 19.35%;
+  right: 25%;
+  bottom: 4.19%;
+  left: 26.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.rectangle-parent29 {
+  height: 31px;
+  width: 46px;
+  position: relative;
+  z-index: 1;
+}
+.search-container,
+.search12 {
+  display: flex;
+  align-items: flex-start;
+}
+.search12 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-8xs)
+    var(--padding-lgi);
+  position: relative;
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.search-container {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cart-icon8 {
+  position: absolute;
+  height: 78.71%;
+  width: 84.85%;
+  top: 21.29%;
+  right: 15.15%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logic-operators {
+  position: absolute;
+  height: 35.89%;
+  width: 41.32%;
+  top: 0;
+  right: 0;
+  bottom: 64.11%;
+  left: 58.68%;
+  border-radius: 50%;
+  background-color: var(--color-sienna);
+  z-index: 1;
+}
+.b11 {
+  position: absolute;
+  top: 2.39%;
+  left: 71.63%;
+  display: inline-block;
+  min-width: 7px;
+  z-index: 2;
+}
+.cart8 {
+  height: 41.8px;
+  width: 36.3px;
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.input-sequence,
+.output-sequence {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.output-sequence {
+  width: 989.3px;
+  gap: var(--gap-6xl);
+}
+.input-sequence {
+  align-self: stretch;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+}
+.frame-parent25,
+.main-inner1 {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.frame-parent25 {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xl-7);
+}
+.main-inner1 {
+  width: 1039px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-sm-9);
+  box-sizing: border-box;
+  font-size: var(--font-size-smi);
+}
+.main8,
+.quezon-city-metro80 {
+  font-family: var(--font-montserrat);
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.main8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-sm-6) var(--padding-xl) var(--padding-3xl-1);
+  box-sizing: border-box;
+  position: sticky;
+  gap: var(--gap-6xl);
+  top: 0;
+  z-index: 99;
+  max-width: 100%;
+  font-size: var(--font-size-17xl);
+}
+.quezon-city-metro80 {
+  position: absolute;
+  top: 24px;
+  left: 76px;
+  font-size: var(--font-size-3xs);
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.sold83,
+.star-icon93 {
+  position: absolute;
+  top: 0;
+}
+.star-icon93 {
+  left: 0;
+  width: 75px;
+  height: 15px;
+}
+.sold83 {
+  left: 84px;
+  font-size: var(--font-size-xs);
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.quezon-city-metro-manila-parent57 {
+  position: absolute;
+  top: 268px;
+  left: 11px;
+  width: 210px;
+  height: 39px;
+  display: none;
+}
+.albott-scooter-with8,
+.bar-large-aluminum8 {
+  margin: 0;
+}
+.yokohama-new-japan-container73 {
+  position: absolute;
+  top: 195px;
+  left: 11px;
+  font-size: var(--font-size-xs);
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-dimgray-100);
+  text-align: left;
+  display: none;
+}
+.div116,
+.item-20-inner {
+  position: absolute;
+  display: none;
+}
+.item-20-inner {
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 186px;
+  object-fit: cover;
+}
+.div116 {
+  top: 239px;
+  left: 11px;
+  font-size: var(--font-size-xl);
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-indianred-100);
+  text-align: left;
+  white-space: nowrap;
+}
+.item-202 {
+  position: absolute;
+  top: 4px;
+  left: 9px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-400);
+  box-sizing: border-box;
+  width: 250px;
+  height: 32px;
+  overflow: hidden;
+}
+.streamline-trending-content-s-icon2 {
+  position: absolute;
+  top: 10px;
+  left: 29px;
+  width: 23px;
+  height: 20px;
+  overflow: hidden;
+  z-index: 1;
+}
+.trending-products2 {
+  position: absolute;
+  top: 5px;
+  left: 63px;
+  font-size: var(--font-size-mini);
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 800;
+  font-family: var(--font-montserrat);
+  color: var(--color-dimgray-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 196px;
+  height: 30px;
+  z-index: 1;
+}
+.frame-icon3,
+.trend-button2 {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.trend-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 41px;
+}
+.frame-icon3 {
+  width: 30px;
+  height: 30px;
+}
+.frame-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.categories6 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 96px;
+}
+.frame-parent29 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.vehicles7 {
+  width: 63px;
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 63px;
+  cursor: pointer;
+}
+.vehicles-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-mini);
+  margin-top: -5px;
+  font-size: var(--font-size-mini);
+}
+.frame-parent28 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-6xs) 0 0;
+  font-size: var(--font-size-mid);
+}
+.appliances3,
+.bikes3 {
+  width: 85px;
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 85px;
+  cursor: pointer;
+}
+.bikes3 {
+  width: 42px;
+  min-width: 42px;
+}
+.bikes-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-24xl) 0 var(--padding-31xl);
+  color: var(--color-indianred-100);
+}
+.toys3 {
+  width: 34px;
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 34px;
+  cursor: pointer;
+}
+.toys-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-32xl) 0 var(--padding-31xl);
+}
+.frame-parent27 {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-78xl) var(--padding-mid)
+    var(--padding-mid);
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-3xs);
+}
+.group-icon2 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+}
+.group-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs-7) 0 0;
+}
+.rating2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+}
+.frame-parent32,
+.frame-wrapper5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent32 {
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.frame-wrapper5 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-20xl) 0 0;
+}
+.star-icon94,
+.star-icon95 {
+  width: 75px;
+  position: relative;
+}
+.star-icon94 {
+  height: 15px;
+}
+.star-icon95 {
+  align-self: stretch;
+  max-height: 100%;
+  min-height: 15px;
+}
+.up8 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 32px;
+}
+.star-parent21 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.star-icon96 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.up9 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 32px;
+}
+.frame-parent31,
+.star-parent20,
+.star-parent22 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.frame-parent31,
+.star-parent20 {
+  flex-direction: column;
+  gap: var(--gap-mid);
+  font-size: var(--font-size-smi);
+}
+.frame-parent31 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-7xs);
+  font-size: var(--font-size-mid);
+}
+.star-icon97 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.up10 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 32px;
+}
+.star-parent23 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.star-icon98 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.up11 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 32px;
+}
+.frame-parent30,
+.star-parent24 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.frame-parent30 {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-mid) var(--padding-46xl) var(--padding-9xl)
+    var(--padding-3xl);
+  gap: var(--gap-mid);
+}
+.frame-wrapper4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-3xs);
+  text-align: left;
+  font-size: var(--font-size-smi);
+}
+.popular-child6 {
+  height: 43px;
+  width: 249px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-indianred-100);
+  display: none;
+}
+.clear-all2 {
+  width: 63px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 63px;
+  z-index: 1;
+}
+.popular-container,
+.popular10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.popular10 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-xl);
+  background-color: var(--color-indianred-100);
+  flex: 1;
+  border-radius: var(--br-8xs);
+  justify-content: center;
+  white-space: nowrap;
+}
+.popular10:hover {
+  background-color: var(--color-indianred-300);
+}
+.popular-container {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-3xs);
+}
+.trend-button-parent {
+  width: 268px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-xl-7);
+}
+.sort-by8 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 63px;
+}
+.sort-by-container {
+  width: 67px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-mid);
+}
+.popular-child7 {
+  height: 29px;
+  width: 99px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-indianred-100);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  display: none;
+}
+.popular12 {
+  flex: 1;
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 56.6px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.popular-child8,
+.popular11 {
+  width: 99px;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.popular11 {
+  background-color: var(--color-indianred-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl-6) 0 var(--padding-2xl-8);
+  color: var(--color-white);
+}
+.popular-child8 {
+  height: 29px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+}
+.latest2 {
+  flex: 1;
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.popular-child9,
+.popular13 {
+  width: 99px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.popular13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl-6) 0 var(--padding-2xl-8);
+  cursor: pointer;
+}
+.popular-child9 {
+  height: 29px;
+  position: relative;
+  display: none;
+}
+.top-sales2 {
+  width: 62px;
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 62px;
+  z-index: 1;
+}
+.popular14,
+.price-inner {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+}
+.popular14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg-2) 0 var(--padding-lg-8);
+  white-space: nowrap;
+  cursor: pointer;
+}
+.price-inner {
+  height: 29px;
+  width: 184px;
+  position: relative;
+  box-sizing: border-box;
+  display: none;
+}
+.price6 {
+  width: 34px;
+  position: relative;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 34px;
+  z-index: 1;
+}
+.expand-arrow-icon2 {
+  width: 12px;
+  height: 9.6px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.expand-arrow-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-smi-4);
+}
+.frame-parent34,
+.price5 {
+  display: flex;
+  flex-direction: row;
+}
+.price5 {
+  flex: 1;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-3xs) 0 var(--padding-5xs);
+  min-width: 46px;
+  gap: var(--gap-xl);
+}
+.frame-parent34 {
+  width: 584px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  max-width: 100%;
+}
+.item-2-child5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.yokohama-new-japan19 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.yokohama-new-japan-mountain-ro-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xs);
+}
+.div117 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 86px;
+  white-space: nowrap;
+}
+.star-icon99 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold84 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 51px;
+}
+.logic-branch {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.quezon-city-metro81 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.input-processor2,
+.logic-branch-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.logic-branch-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+}
+.group {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-sm);
+}
+.group,
+.item-2-inner2,
+.item-27 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-2-inner2 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+}
+.item-27 {
+  height: 312px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-lgi);
+}
+.item-4-child3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.two-seater-electric-bicycle,
+.wheeled-electric-bicycle {
+  margin: 0;
+}
+.div118,
+.yokohama-new-japan-container74 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div118 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 82px;
+  white-space: nowrap;
+}
+.star-icon100 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold85 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 53px;
+}
+.star-parent25 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro82 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper19 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent35,
+.yokohama-new-japan-mountain-ro-parent13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent35 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent13 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-4-inner1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-45 {
+  height: 312px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-7-child5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.inch-folding-bike,
+.tain-bike-off-road {
+  margin: 0;
+}
+.div119,
+.yokohama-new-japan-container75 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div119 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 76px;
+  white-space: nowrap;
+}
+.star-icon101 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold86 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 52px;
+}
+.star-parent26 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro83 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper20 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent36,
+.yokohama-new-japan-mountain-ro-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent36 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent14 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-7-inner3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-7xs) 0 var(--padding-2xs);
+}
+.item-77 {
+  height: 312px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-5-child6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.and-free-front,
+.inch-adult-bike {
+  margin: 0;
+}
+.div120,
+.yokohama-new-japan-container76 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div120 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 75px;
+  white-space: nowrap;
+}
+.star-icon102 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold87 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 44px;
+}
+.star-parent27 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro84 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper21 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent37,
+.yokohama-new-japan-mountain-ro-parent15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent37 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent15 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-5-inner2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-8xs) 0 var(--padding-2xs);
+}
+.item-58 {
+  height: 312px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.frame-wrapper6,
+.item-2-group {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-2-group {
+  flex: 1;
+  display: grid;
+  gap: var(--gap-lgi);
+  max-width: 100%;
+  grid-template-columns: repeat(4, minmax(172px, 1fr));
+}
+.frame-wrapper6 {
+  display: flex;
+  padding: 0 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.frame-parent33,
+.frame-wrapper6,
+.item-8-child5 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.frame-parent33 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.item-8-child5 {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.inch-with-auxiliary1,
+.japan-kids-bicycle1 {
+  margin: 0;
+}
+.div121,
+.yokohama-new-japan-container77 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.yokohama-new-japan-container77 {
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+.div121 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 76px;
+  white-space: nowrap;
+}
+.star-icon103 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold88 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 54px;
+}
+.star-parent28 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro85 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.frame-parent38,
+.switch-statement {
+  display: flex;
+  align-items: flex-start;
+}
+.switch-statement {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent38 {
+  width: 210px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent16 {
+  flex-direction: column;
+  gap: var(--gap-sm);
+}
+.item-8-inner2,
+.item-88,
+.yokohama-new-japan-mountain-ro-parent16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-8-inner2 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-2xs);
+}
+.item-88 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-10-child3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.inch-high-carbon,
+.japan-new-mountain {
+  margin: 0;
+}
+.div122,
+.yokohama-new-japan-container78 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div122 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 77px;
+  white-space: nowrap;
+}
+.star-icon104 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold89 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 44px;
+}
+.star-parent29 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro86 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper22 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent39,
+.yokohama-new-japan-mountain-ro-parent17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent39 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent17 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-10-inner2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-105 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-9-child6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.yokohama-new-japan20 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.yokohama-new-japan-mountain-ro-wrapper4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lgi) 0 var(--padding-2xs);
+}
+.div123 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 77px;
+  white-space: nowrap;
+}
+.star-icon105 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold90 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 44px;
+}
+.star-parent30 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro87 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.frame-parent40,
+.quezon-city-metro-manila-wrapper23 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent40 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+}
+.parent1 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-sm);
+}
+.item-9-inner3,
+.item-98,
+.parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-9-inner3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+}
+.item-98 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-lgi);
+}
+.item-11-child3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.carbon-steel-not1,
+.promax-pm10-mtb1 {
+  margin: 0;
+}
+.div124,
+.yokohama-new-japan-container79 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div124 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 77px;
+  white-space: nowrap;
+}
+.star-icon106 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold91 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 38px;
+}
+.star-parent31 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro88 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper24 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent41,
+.yokohama-new-japan-mountain-ro-parent18 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent41 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent18 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-11-inner4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-116 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-12-child1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.tirich-infinite-2x12spd,
+.with-freebies {
+  margin: 0;
+}
+.div125,
+.yokohama-new-japan-container80 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div125 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 85px;
+  white-space: nowrap;
+}
+.star-icon107 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold92 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 44px;
+}
+.star-parent32 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro89 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper25 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent42,
+.yokohama-new-japan-mountain-ro-parent19 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent42 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent19 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-12-inner2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-123 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-13-child2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mountain-bike-for1,
+.steel-with-shock1 {
+  margin: 0;
+}
+.div126,
+.yokohama-new-japan-container81 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div126 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 75px;
+  white-space: nowrap;
+}
+.star-icon108 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold93 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 52px;
+}
+.star-parent33 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro90 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper26 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent43,
+.yokohama-new-japan-mountain-ro-parent20 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent43 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent20 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-13-inner3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-134 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-14-child2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.watts-adjustable-seat,
+.wheel-electric-bike {
+  margin: 0;
+}
+.div127,
+.yokohama-new-japan-container82 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div127 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 87px;
+  white-space: nowrap;
+}
+.star-icon109 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold94 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 37px;
+}
+.star-parent34 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro91 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper27 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent44,
+.yokohama-new-japan-mountain-ro-parent21 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent44 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent21 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-14-inner2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-143 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-15-child1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.electric-bike,
+.watts-original-avia {
+  margin: 0;
+}
+.div128,
+.yokohama-new-japan-container83 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div128 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 88px;
+  white-space: nowrap;
+}
+.star-icon110 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold95 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 37px;
+}
+.star-parent35 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro92 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent45,
+.yokohama-new-japan-mountain-ro-parent22 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent45 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent22 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-15-inner1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-152 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-8-group {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 19px 17.7px;
+  min-height: 643px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.frame-parent26,
+.item-8-group,
+.sort-by7 {
+  display: flex;
+  justify-content: flex-start;
+}
+.sort-by7 {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-sm) var(--padding-14xl) var(--padding-7xl)
+    var(--padding-lgi);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+  max-width: calc(100% - 293px);
+  font-size: var(--font-size-smi);
+}
+.frame-parent26 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-6xl);
+  max-width: 100%;
+}
+.you-might-like3 {
+  margin: 0;
+  width: 129px;
+  position: relative;
+  font-size: inherit;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 129px;
+}
+.item-2-child6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.yokohama-new-japan21 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.yokohama-new-japan-mountain-ro-wrapper5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xs);
+}
+.div129 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 86px;
+  white-space: nowrap;
+}
+.star-icon111 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold96 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 51px;
+}
+.star-parent36 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.quezon-city-metro93 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.frame-parent46,
+.quezon-city-metro-manila-wrapper29 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent46 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+}
+.parent2 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-sm);
+}
+.item-2-inner3,
+.item-28,
+.parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-2-inner3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+}
+.item-28 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-lgi);
+}
+.item-10-child4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bicycle-light-waterproof1,
+.light-led-usb1 {
+  margin: 0;
+}
+.div130,
+.yokohama-new-japan-container84 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div130 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 45px;
+  white-space: nowrap;
+}
+.star-icon112 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold97 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 50px;
+}
+.star-parent37 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro94 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper30 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent47,
+.yokohama-new-japan-mountain-ro-parent23 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent47 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent23 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-10-inner3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-106 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-7-child6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.adult-mober-scooter3,
+.off-road-electric3 {
+  margin: 0;
+}
+.div131,
+.yokohama-new-japan-container85 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div131 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 78px;
+  white-space: nowrap;
+}
+.star-icon113 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold98 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 53px;
+}
+.star-parent38 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro95 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper31 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent48,
+.yokohama-new-japan-mountain-ro-parent24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent48 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent24 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-7-inner4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-78 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-9-child7 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vh-safety-bright1,
+.wheel-tire-tyre1 {
+  margin: 0;
+}
+.div132,
+.yokohama-new-japan-container86 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div132 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 43px;
+  white-space: nowrap;
+}
+.star-icon114 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold99 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 54px;
+}
+.star-parent39 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro96 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper32 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent49,
+.yokohama-new-japan-mountain-ro-parent25 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent49 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent25 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-9-inner4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-99 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-8-child6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ble-mirrors-waterproof1,
+.pack-bike-side1 {
+  margin: 0;
+}
+.div133,
+.yokohama-new-japan-container87 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div133 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 48px;
+  white-space: nowrap;
+}
+.star-icon115 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold100 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 56px;
+}
+.star-parent40 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro97 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper33 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent50,
+.yokohama-new-japan-mountain-ro-parent26 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent50 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent26 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-8-inner3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-7xs) 0 var(--padding-2xs);
+}
+.item-89 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-4-child4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.elbil-jeep-willys6,
+.peak-1500w-motor6 {
+  margin: 0;
+}
+.div134,
+.yokohama-new-japan-container88 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div134 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 99px;
+  white-space: nowrap;
+}
+.star-icon116 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold101 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 35px;
+}
+.star-parent41 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro98 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper34 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent51,
+.yokohama-new-japan-mountain-ro-parent27 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent51 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent27 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-4-inner2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-46 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-5-child7 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.albott-scooter-with9,
+.bar-large-aluminum9 {
+  margin: 0;
+}
+.div135,
+.yokohama-new-japan-container89 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div135 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 75px;
+  white-space: nowrap;
+}
+.star-icon117 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold102 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 38px;
+}
+.star-parent42 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro99 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper35 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent52,
+.yokohama-new-japan-mountain-ro-parent28 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent52 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent28 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-5-inner3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-4xs) 0 var(--padding-2xs);
+}
+.item-59 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-11-child4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.enzo-aluminum-alloy1,
+.holder-stand-mount1 {
+  margin: 0;
+}
+.div136,
+.yokohama-new-japan-container90 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.div136 {
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  min-width: 47px;
+  white-space: nowrap;
+}
+.star-icon118 {
+  align-self: stretch;
+  width: 75px;
+  position: relative;
+  max-height: 100%;
+  min-height: 15px;
+}
+.sold103 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 50px;
+}
+.star-parent43 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.quezon-city-metro100 {
+  position: relative;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.quezon-city-metro-manila-wrapper36 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent53,
+.yokohama-new-japan-mountain-ro-parent29 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent53 {
+  align-self: stretch;
+  gap: var(--gap-4xs);
+}
+.yokohama-new-japan-mountain-ro-parent29 {
+  flex: 1;
+  gap: var(--gap-sm);
+}
+.item-11-inner5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-8xs) 0 var(--padding-2xs);
+}
+.item-117,
+.item-2-container {
+  display: flex;
+  justify-content: flex-start;
+}
+.item-117 {
+  height: 312px;
+  width: 230px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-4xs);
+}
+.item-2-container {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 19px 17.7px;
+  min-height: 643px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.sort-by9 {
+  width: 1039px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-base) var(--padding-10xl) var(--padding-12xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  max-width: 100%;
+  font-size: var(--font-size-mid);
+}
+.bikes-inner,
+.bikes2,
+.frame-section,
+.sort-by9 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-section {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-8xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-montserrat);
+}
+.bikes-inner,
+.bikes2 {
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.bikes-inner {
+  width: 1482px;
+  flex-direction: row;
+  padding: 0 var(--padding-56xl);
+  max-width: 100%;
+}
+.bikes2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  overflow-y: auto;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) var(--padding-240xl);
+  gap: var(--gap-2xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 950px) {
+  .trend-button-parent {
+    display: none;
+  }
+  .item-2-group {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(172px, 299px));
+  }
+  .sort-by7 {
+    max-width: 100%;
+  }
+  .sort-by9 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .bikes-inner {
+    padding-left: var(--padding-18xl);
+    padding-right: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .div116,
+  .div117,
+  .div118,
+  .div119,
+  .div120 {
+    font-size: var(--font-size-base);
+    line-height: 12px;
+  }
+  .item-2-group {
+    grid-template-columns: minmax(172px, 1fr);
+  }
+  .div121,
+  .div122,
+  .div123,
+  .div124,
+  .div125,
+  .div126,
+  .div127,
+  .div128,
+  .div129,
+  .div130,
+  .div131,
+  .div132,
+  .div133,
+  .div134,
+  .div135,
+  .div136 {
+    font-size: var(--font-size-base);
+    line-height: 12px;
+  }
+}
+.english5,
+.search-history1 {
+  position: absolute;
+  height: 24.13%;
+  width: 8.9%;
+  top: -89.62%;
+  left: 132.67%;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.search-history1 {
+  width: 10.97%;
+  top: 0;
+  left: 2.17%;
+  color: var(--color-darkgray);
+}
+.motorcycles1,
+.oven1,
+.scooter2,
+.toys-for-kids1 {
+  margin: 0;
+}
+.toys-for-kids-container1 {
+  width: 100%;
+}
+.toys-for-kids-container {
+  position: absolute;
+  height: 80%;
+  width: 9.83%;
+  top: 19.38%;
+  left: 2.17%;
+  line-height: 29px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-dimgray-100);
+  display: flex;
+  align-items: center;
+}
+.language5 {
+  width: 875px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-linen-100);
+  box-sizing: border-box;
+  height: 160px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-indianred-100);
+  font-family: var(--font-montserrat);
+}

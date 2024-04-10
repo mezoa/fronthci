@@ -945,11 +945,11 @@
 }
 .electric-bike-electric1 {
   position: absolute;
-  top: 110px;
-  left: 369px;
+  top: 124px;
+  left: 375px;
   font-weight: 500;
-  color: var(--color-dimgray-300);
-  white-space: pre-wrap;
+  color: var(--color-dimgray-200);
+  white-space: normal;
 }
 .search-child1 {
   position: absolute;
